@@ -14,6 +14,7 @@ Researchers, students, or anyone interested in the field of Quantum Mechanics ca
 3. Comparing publication rates across different years, months, or regions: Observing the distribution of publications can reveal patterns or differences in research focus or productivity.
 4. Correlating publication trends with other factors: The dataset can be combined with additional data, such as funding information, citation metrics, or author affiliations, to identify relationships and correlations.
 
+![Image](graph1.png)
 
 Acknowledgments:
 --------------------------------------
